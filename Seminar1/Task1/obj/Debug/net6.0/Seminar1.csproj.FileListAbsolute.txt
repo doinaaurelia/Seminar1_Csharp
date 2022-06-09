@@ -1,0 +1,15 @@
+/Users/admin/Desktop/QA/C#/Seminar1/bin/Debug/net6.0/Seminar1
+/Users/admin/Desktop/QA/C#/Seminar1/bin/Debug/net6.0/Seminar1.deps.json
+/Users/admin/Desktop/QA/C#/Seminar1/bin/Debug/net6.0/Seminar1.runtimeconfig.json
+/Users/admin/Desktop/QA/C#/Seminar1/bin/Debug/net6.0/Seminar1.dll
+/Users/admin/Desktop/QA/C#/Seminar1/bin/Debug/net6.0/Seminar1.pdb
+/Users/admin/Desktop/QA/C#/Seminar1/obj/Debug/net6.0/Seminar1.csproj.AssemblyReference.cache
+/Users/admin/Desktop/QA/C#/Seminar1/obj/Debug/net6.0/Seminar1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/QA/C#/Seminar1/obj/Debug/net6.0/Seminar1.AssemblyInfoInputs.cache
+/Users/admin/Desktop/QA/C#/Seminar1/obj/Debug/net6.0/Seminar1.AssemblyInfo.cs
+/Users/admin/Desktop/QA/C#/Seminar1/obj/Debug/net6.0/Seminar1.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/QA/C#/Seminar1/obj/Debug/net6.0/Seminar1.dll
+/Users/admin/Desktop/QA/C#/Seminar1/obj/Debug/net6.0/refint/Seminar1.dll
+/Users/admin/Desktop/QA/C#/Seminar1/obj/Debug/net6.0/Seminar1.pdb
+/Users/admin/Desktop/QA/C#/Seminar1/obj/Debug/net6.0/Seminar1.genruntimeconfig.cache
+/Users/admin/Desktop/QA/C#/Seminar1/obj/Debug/net6.0/ref/Seminar1.dll
