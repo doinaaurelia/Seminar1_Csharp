@@ -1,0 +1,15 @@
+/Users/admin/Desktop/QA/C#/Seminar4_HW_Ladonkina/bin/Debug/net6.0/Seminar4_HW_Ladonkina
+/Users/admin/Desktop/QA/C#/Seminar4_HW_Ladonkina/bin/Debug/net6.0/Seminar4_HW_Ladonkina.deps.json
+/Users/admin/Desktop/QA/C#/Seminar4_HW_Ladonkina/bin/Debug/net6.0/Seminar4_HW_Ladonkina.runtimeconfig.json
+/Users/admin/Desktop/QA/C#/Seminar4_HW_Ladonkina/bin/Debug/net6.0/Seminar4_HW_Ladonkina.dll
+/Users/admin/Desktop/QA/C#/Seminar4_HW_Ladonkina/bin/Debug/net6.0/Seminar4_HW_Ladonkina.pdb
+/Users/admin/Desktop/QA/C#/Seminar4_HW_Ladonkina/obj/Debug/net6.0/Seminar4_HW_Ladonkina.csproj.AssemblyReference.cache
+/Users/admin/Desktop/QA/C#/Seminar4_HW_Ladonkina/obj/Debug/net6.0/Seminar4_HW_Ladonkina.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/QA/C#/Seminar4_HW_Ladonkina/obj/Debug/net6.0/Seminar4_HW_Ladonkina.AssemblyInfoInputs.cache
+/Users/admin/Desktop/QA/C#/Seminar4_HW_Ladonkina/obj/Debug/net6.0/Seminar4_HW_Ladonkina.AssemblyInfo.cs
+/Users/admin/Desktop/QA/C#/Seminar4_HW_Ladonkina/obj/Debug/net6.0/Seminar4_HW_Ladonkina.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/QA/C#/Seminar4_HW_Ladonkina/obj/Debug/net6.0/Seminar4_HW_Ladonkina.dll
+/Users/admin/Desktop/QA/C#/Seminar4_HW_Ladonkina/obj/Debug/net6.0/refint/Seminar4_HW_Ladonkina.dll
+/Users/admin/Desktop/QA/C#/Seminar4_HW_Ladonkina/obj/Debug/net6.0/Seminar4_HW_Ladonkina.pdb
+/Users/admin/Desktop/QA/C#/Seminar4_HW_Ladonkina/obj/Debug/net6.0/Seminar4_HW_Ladonkina.genruntimeconfig.cache
+/Users/admin/Desktop/QA/C#/Seminar4_HW_Ladonkina/obj/Debug/net6.0/ref/Seminar4_HW_Ladonkina.dll
