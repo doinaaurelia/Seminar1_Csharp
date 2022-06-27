@@ -10,8 +10,9 @@ void Print(int[] array)
     {
         Console.Write(array[i] + " ");
     }
+    Console.WriteLine();
 }
-Console.WriteLine();
+
 
 int[] mass = new int[123];
 for (int i = 0; i < mass.Length; i++)
